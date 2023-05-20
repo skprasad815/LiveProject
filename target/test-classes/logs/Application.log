@@ -1,8 +1,8 @@
-24/01/2023 17:16:37 devpinoyLogger config file loaded
-24/01/2023 17:16:37 devpinoyLogger OR file loaded
-24/01/2023 17:16:40 devpinoyLogger navigated to :http://www.way2automation.com/angularjs-protractor/banking/#/login
-24/01/2023 17:16:40 devpinoyLogger Inside login test
-24/01/2023 17:16:42 devpinoyLogger login successfully
-24/01/2023 17:16:42 devpinoyLogger entering the details of customer
-24/01/2023 17:16:43 devpinoyLogger  customer added successfully
-24/01/2023 17:16:43 devpinoyLogger execution completed
+31/03/2023 16:01:27 devpinoyLogger config file loaded
+31/03/2023 16:01:27 devpinoyLogger OR file loaded
+31/03/2023 16:01:29 devpinoyLogger navigated to :http://www.way2automation.com/angularjs-protractor/banking/#/login
+31/03/2023 16:01:30 devpinoyLogger Inside login test
+31/03/2023 16:01:31 devpinoyLogger login successfully
+31/03/2023 16:01:31 devpinoyLogger entering the details of customer
+31/03/2023 16:01:32 devpinoyLogger  customer added successfully
+31/03/2023 16:01:32 devpinoyLogger execution completed
